@@ -1,5 +1,4 @@
-﻿-- Tham khảo khi đặt phòng tại https://www.booking.com/
--- DROP DATABASE QuanLyKhachSanDb
+
 
 CREATE DATABASE QuanLyKhachSanDb
 GO
